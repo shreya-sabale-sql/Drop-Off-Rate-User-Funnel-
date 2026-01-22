@@ -37,3 +37,15 @@ Device type
 Application activity
 Success indicator
 Timestamp
+
+## 📊 Funnel Overview
+
+![Funnel Overview](dashboards/funnel_overview.png)
+
+## 📈 Device Comparison
+
+![Device Comparison](dashboards/device_comparison.png)
+
+## 📉 Retention Heatmap
+
+![Retention Heatmap](dashboards/retention_heatmap.png)
